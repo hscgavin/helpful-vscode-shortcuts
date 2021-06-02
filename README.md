@@ -1,5 +1,6 @@
 # helpful-vscode-shortcuts
 helpful vscode shortcuts for macOS
+
 [Full List of Keyboard Shortcuts for MacOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ## Navigation / Display
