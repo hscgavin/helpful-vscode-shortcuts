@@ -24,3 +24,8 @@ helpful vscode shortcuts for macOS
 | Shift+Cmd+E     | Show explorer  |
 | Cmd+Down     | Open file/folder     |
 | Ctrl+Tab     | Open file tabs     |
+| Cmd+P     | Quick open file     |
+| Cmd+N     | New file     |
+| Cmd+Delete     | Delete file     |
+| Shift+Cmd+T     | Reopen file     |
+| Cmd+\     | Split Editor     |
